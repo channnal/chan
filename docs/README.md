@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: ./headImg.jpg
+heroImage: /headImg.jpg
 heroText: chan's Home
-tagline: 1
-actionText: 2
+tagline: welcome to my home ^_^
+actionText: CLICK!
 actionLink: /
 features:
 - title: 简洁至上
