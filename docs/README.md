@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /vue-logo.png
-heroText: blog-demo
-tagline: 博客示例
-actionText: 快速上手 →
+heroImage: ./headImg.jpg
+heroText: chan's Home
+tagline: 1
+actionText: 2
 actionLink: /
 features:
 - title: 简洁至上
